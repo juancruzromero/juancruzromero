@@ -1,31 +1,20 @@
-## Hi! 👋 (Developing this MD)
+## Hi! 👋
 
-My name is Juan Cruz, I'm a Python/C# Developer from Argentina🧉🍷⚽.
+My name is Juan Cruz, I'm a **Software Developer** and **Data Engineer** from [Argentina](https://www.google.com.ar/maps/place/Argentina/)🧉🍷⚽.
 
-- 🔭 I’m currently working on Data Engineering and Backend projects.
-- 🌱 I’m currently learning DevSecOps Culture.
-- 👯 I’m looking to collaborate on Open Source Python or C#projects. 
-- 😄 Pronouns: Juanito
+- BS. in Information Systems @[UBA](https://www.economicas.uba.ar/alumnos/sistemas/)
+- Currently working for [BB](https://bb.vision/) as a Python Developer.
+- Actually learning french, [DevSecOps culture](https://devsecops-latam.org/) and more of [frontend development](https://vuejs.org/).
 
 ### Skills
-- Data Engineering
-- Django
-- Digital Ocean - Heroku Deploy
+- Critical thinking, networking, teamwork and leadership.
+- Best practices and software design before coding.
+- Python, JavaScript and C# coding.
+- Docker, some AWS/Azure knowledge, Digital Ocean, Heroku and everyday I learn something of cloud stuff 🧑🏻‍💻☁️.
+- I speak spanish, english and portuguese.
 
 ### Contact
-You can visit my [website](https://juancruzromero.github.io/)!
+Check it out my [site](https://juancruzromero.github.io/)!
 
-<!--
-**juancruzromero/juancruzromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👇 Open Source Projects
+Below I pinned my top projects to share with the comunnity😄. I prefer write my repositories documents in spanish for promote learning in Latin America 🌎.
