@@ -14,7 +14,7 @@ My name is Juan Cruz, I'm a **Software Developer** and **Data Engineer** from [A
 - I speak spanish, english and portuguese.
 
 ### Contact
-Check it out my [site](https://juancruzromero.github.io/)!
+Check it out my [site](https://juancruzromero.github.io/)! Contact me via [LinkedIn](https://www.linkedin.com/in/juancruzromero/).
 
 ### 👇 Open Source Projects
 Below I pinned my top projects to share with the comunnity😄. I prefer write my repositories documents in spanish for promote learning in Latin America 🌎.
