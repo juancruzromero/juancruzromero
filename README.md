@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-My name is Juan Cruz, I'm a **Software Developer** and **Data Engineer** from [Argentina](https://www.google.com.ar/maps/place/Argentina/)🧉🍷[⚽](https://www.youtube.com/watch?v=zihhZjcmrOc).
+My name is Juan Cruz, I'm a **Software Developer** and **Data Engineer** from [Argentina](https://www.google.com.ar/maps/place/Argentina/)🧉🍷[⚽](https://www.youtube.com/watch?v=OhSGppEjoxg).
 
 - BS. in Information Systems @ [UBA](https://www.economicas.uba.ar/alumnos/sistemas/)
 - Currently working for [BB](https://bb.vision/) as a Python Developer.
