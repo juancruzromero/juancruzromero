@@ -3,7 +3,7 @@
 My name is Juan Cruz, I'm a **Software Developer** and **Data Engineer** from [Argentina](https://www.google.com.ar/maps/place/Argentina/)[🧉](https://en.wikipedia.org/wiki/Mate_(drink))[🍷](https://www.google.com.ar/maps/place/Mendoza)[⚽](https://www.youtube.com/watch?v=oqR-1aQVBeQ).
 
 - Currently working for [BB](https://bb.vision/) as a Python Developer.
-- BS. in Information Systems @ [UBA](https://www.economicas.uba.ar/alumnos/sistemas/).
+- BS. in Information Systems @ [UBA](https://www.economicas.uba.ar/alumnos/sistemas/) and I also teach there.
 - Actually learning french, [DevSecOps culture](https://devsecops-latam.org/) and more of [frontend development](https://vuejs.org/).
 
 ### Skills
