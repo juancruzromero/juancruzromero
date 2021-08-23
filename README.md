@@ -4,12 +4,12 @@ My name is Juan Cruz, I'm a **Software Developer** and **Data Engineer** from [A
 
 - Currently working for [BB](https://bb.vision/) as a Python Developer.
 - BS. in Information Systems @ [UBA](https://www.economicas.uba.ar/alumnos/sistemas/) and I also teach there.
-- Actually learning french, [DevSecOps culture](https://devsecops-latam.org/) and more of [frontend development](https://vuejs.org/).
+- Actually learning [DevSecOps culture](https://devsecops-latam.org/) and [Amazon CCP](https://aws.amazon.com/es/certification/certified-cloud-practitioner/).
 
 ### Skills
 - Critical thinking, networking, teamwork and leadership.
-- Best practices and software design before coding.
-- Python, JavaScript and C# coding.
+- Best practices and software design.
+- Python and C# coding. Basics frontend knowledge with [React](https://reactjs.org/) and [VueJS](https://vuejs.org/).
 - Docker, some AWS/Azure knowledge, Digital Ocean, Heroku and everyday I learn something of cloud stuff 🧑🏻‍💻☁️.
 - I speak spanish, english and portuguese.
 
