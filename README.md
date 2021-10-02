@@ -7,7 +7,7 @@ My name is Juan Cruz, I'm a **Software Developer** and **Data Engineer** from [A
 - Actually learning [DevSecOps culture](https://devsecops-latam.org/) and [Amazon CCP](https://aws.amazon.com/es/certification/certified-cloud-practitioner/).
 
 ### Skills
-- Critical thinking, networking, teamwork and leadership. Best practices and software design.
+- Leadership, Critical thinking, teamwork and networking. Best practices and software design.
 - Python and C# coding for backend developement. Basics frontend knowledge with React and VueJS.
 - Databases like MySQL, Postgres, SQL Server, MongoDB and Redis.
 - Docker, some AWS/Azure knowledge, Digital Ocean, Heroku and everyday I learn something of cloud stuff 🧑🏻‍💻☁️.
