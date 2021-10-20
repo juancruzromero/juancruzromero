@@ -4,7 +4,7 @@ My name is Juan Cruz, I'm a **Software Engineer** and **Data Scientist** from [A
 
 - Currently working for [BB](https://bb.vision/) as Lead Python Developer.
 - BD. in Information Systems @ [UBA](https://www.uba.ar/) and I also teach about algorithms there.
-- Actually learning [DevSecOps culture](https://devsecops-latam.org/).
+- Actually learning [DevSecOps culture](https://devsecops-latam.org/) and architecture.
 
 ### Skills
 - Leadership, critical thinking, coaching, teamwork and networking. Best practices and software design.
