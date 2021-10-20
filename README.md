@@ -7,7 +7,7 @@ My name is Juan Cruz, I'm a **Software Engineer** and **Data Scientist** from [A
 - Actually learning [DevSecOps culture](https://devsecops-latam.org/).
 
 ### Skills
-- Leadership, Critical thinking, coaching, teamwork and networking. Best practices and software design.
+- Leadership, critical thinking, coaching, teamwork and networking. Best practices and software design.
 - Python and C# coding for backend developement. Basics frontend knowledge with React and VueJS.
 - Databases like MySQL, Postgres, SQL Server, MongoDB and Redis.
 - Docker, some AWS/Azure knowledge, Digital Ocean, Heroku and everyday I learn something of cloud stuff 🧑🏻‍💻☁️.
