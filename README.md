@@ -2,7 +2,7 @@
 
 My name is Juan Cruz, I'm a **Python Developer** and **Data Engeneer** from [Argentina](https://www.google.com.ar/maps/place/Argentina/)[🧉](https://en.wikipedia.org/wiki/Mate_(drink))[🍷](https://www.google.com.ar/maps/place/Mendoza)[⚽](https://www.youtube.com/watch?v=oqR-1aQVBeQ).
 
-- Currently working freelance.
+- Currently working @ Urbetrack.
 - BD. in Information Systems @ [UBA](https://www.uba.ar/) and I also teach about algorithms there.
 - Actually learning [DevSecOps culture](https://devsecops-latam.org/) and architecture.
 
