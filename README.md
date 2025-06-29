@@ -4,7 +4,7 @@ My name is Juan Cruz — I'm a **Backend Developer** and **Data Engineer** from 
 
 - Currently working @ **Urbetrack** as Lead Data Engineer.  
 - B.D. in Information Systems from [UBA](https://www.uba.ar/), where I also taught algorithms with C#.  
-- Currently learning a bit of **Flutter** (mobile dev is fun!).
+- Currently learning AI with Python and a bit of **Flutter** (mobile dev is fun!).
 
 ### ⚙️ Skills
 - Leadership, critical thinking, coaching, teamwork, and networking. Software design and best practices.
