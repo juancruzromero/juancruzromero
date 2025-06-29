@@ -1,20 +1,21 @@
 ## Hi! 👋
 
-My name is Juan Cruz, I'm a **Backend Developer** and **Data Engeneer** from [Argentina](https://www.google.com.ar/maps/place/Argentina/)[🧉](https://en.wikipedia.org/wiki/Mate_(drink))[🍷](https://www.google.com.ar/maps/place/Mendoza)[⚽](https://www.youtube.com/watch?v=oqR-1aQVBeQ).
+My name is Juan Cruz — I'm a **Backend Developer** and **Data Engineer** from [Argentina](https://www.google.com.ar/maps/place/Argentina/) [🧉](https://en.wikipedia.org/wiki/Mate_(drink)) [🍷](https://www.google.com.ar/maps/place/Mendoza) [⚽](https://www.youtube.com/watch?v=oqR-1aQVBeQ).
 
-- Currently working @ Urbetrack.
-- BD. in Information Systems @ [UBA](https://www.uba.ar/) and I also teach about algorithms there.
-- Actually learning a little bit of Flutter.
+- Currently working @ **Urbetrack** as Lead Data Engineer.  
+- B.D. in Information Systems from [UBA](https://www.uba.ar/), where I also taught algorithms with C#.  
+- Currently learning a bit of **Flutter** (mobile dev is fun!).
 
-### Skills
-- Leadership, critical thinking, coaching, teamwork and networking. Best practices and software design.
-- Python and C# coding for backend developement (I prefer Python xD). Basics frontend knowledge with React. Mobile with Flutter (I'm steel learning xD).
-- Databases like MySQL, Postgres, SQL Server, MongoDB and Redis.
-- Docker, Digital Ocean and AWS/Azure Cloud, 🧑🏻‍💻☁️.
-- I speak spanish, english and a little bit of portuguese.
+### ⚙️ Skills
+- Leadership, critical thinking, coaching, teamwork, and networking. Software design and best practices.
+- Python and C# for backend development (I prefer Python 😄). Some frontend with React. Exploring mobile development with Flutter.
+- Databases: MySQL, PostgreSQL, SQL Server, MongoDB, Redis.
+- DevOps & Cloud: Docker, DigitalOcean, AWS, Azure ☁️.
+- Languages: Spanish (native), English (intermediate), Portuguese (basic).
 
-### Contact
-Check it out my [site](https://juancruzromero.github.io/)! Contact me via [LinkedIn](https://www.linkedin.com/in/juancruzromero/).
+### 📫 Contact
+Check out my [personal site](https://juancruzromero.github.io/) or connect with me on [LinkedIn](https://www.linkedin.com/in/juancruzromero/).
 
 ### 👇 Open Source Projects
-Below I pinned my top projects to share with the comunnity😄. Some of my repositories are documented in spanish for promote programming learning in Latin America 🌎.
+Here you’ll find a few open source projects I’ve pinned to share with the community.  
+Some are documented in Spanish to promote programming education in Latin America 🌎.
