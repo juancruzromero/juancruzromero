@@ -1,17 +1,17 @@
 ## Hi! 👋
 
-My name is Juan Cruz, I'm a **Python Developer** and **Data Engeneer** from [Argentina](https://www.google.com.ar/maps/place/Argentina/)[🧉](https://en.wikipedia.org/wiki/Mate_(drink))[🍷](https://www.google.com.ar/maps/place/Mendoza)[⚽](https://www.youtube.com/watch?v=oqR-1aQVBeQ).
+My name is Juan Cruz, I'm a **Backend Developer** and **Data Engeneer** from [Argentina](https://www.google.com.ar/maps/place/Argentina/)[🧉](https://en.wikipedia.org/wiki/Mate_(drink))[🍷](https://www.google.com.ar/maps/place/Mendoza)[⚽](https://www.youtube.com/watch?v=oqR-1aQVBeQ).
 
 - Currently working @ Urbetrack.
 - BD. in Information Systems @ [UBA](https://www.uba.ar/) and I also teach about algorithms there.
-- Actually learning [DevSecOps culture](https://devsecops-latam.org/) and architecture.
+- Actually learning a little bit of Flutter.
 
 ### Skills
 - Leadership, critical thinking, coaching, teamwork and networking. Best practices and software design.
-- Python and C# coding for backend developement. Basics frontend knowledge with React and VueJS.
+- Python and C# coding for backend developement (I prefer Python xD). Basics frontend knowledge with React. Mobile with Flutter (I'm steel learning xD).
 - Databases like MySQL, Postgres, SQL Server, MongoDB and Redis.
-- Docker, some AWS/Azure knowledge, Digital Ocean, Heroku and everyday I learn something of cloud stuff 🧑🏻‍💻☁️.
-- I speak english, spanish and portuguese.
+- Docker, Digital Ocean and AWS/Azure Cloud, 🧑🏻‍💻☁️.
+- I speak spanish, english and a little bit of portuguese.
 
 ### Contact
 Check it out my [site](https://juancruzromero.github.io/)! Contact me via [LinkedIn](https://www.linkedin.com/in/juancruzromero/).
