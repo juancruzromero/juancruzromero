@@ -5,7 +5,8 @@ I design and build scalable data platforms, automation solutions, and backend sy
 
 - 💼 Currently working at **Urbetrack** as **Lead Data Engineer**
 - 🎓 B.D. in Information Systems from [UBA](https://www.uba.ar/), where I also taught Algorithms with C#
-- 🤖 Currently learning the fundamentals of **AI and Machine Learning with Python**. 📚 Always learning on [Platzi](https://platzi.com/)
+- 🤖 Currently learning the fundamentals of **AI and Machine Learning with Python**.
+- 📚 Always learning something new at [Platzi](https://platzi.com/)
 
 ---
 
