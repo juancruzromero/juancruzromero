@@ -15,7 +15,7 @@ I design and build scalable data platforms, automation solutions, and backend sy
 - **Data Engineering:** Apache Airflow, Kafka, dbt, ELT / ETL pipelines, Pentaho, web scraping, data modeling
 - **Data Platforms:** Snowflake, BigQuery, Redshift, Data Warehouse, Data Lake / Lakehouse
 - **Cloud:** **AWS** (S3, Lambda, EC2, ECS, IAM, Glue, Athena). **GCP** (GCS, Pub/Sub, Dataflow). **Azure** (ADF, ADLS, Synapse Analytics, Azure Cosmos DB)
-- **Backend:** Django, Flask, REST APIs
+- **Backend:** Django & DRF, FastAPI, Flask, REST APIs
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQL Server
 - **Analytics & BI:** Metabase, Jupyter, Power BI
 - **DevOps:** Docker, Kubernetes, Git, Git Flow, CI/CD
